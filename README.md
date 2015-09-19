@@ -1,3 +1,5 @@
+![screenshot of SCADA based on pybase](hmi2.jpg)
+
 This is the library of classes for HMI creation (Python 2). I used it for my small SCADA system.
 It consists of subsystems:
 
